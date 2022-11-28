@@ -1,0 +1,7 @@
+#carouselExampleControlsNoTouching{
+    height: 5vh;
+}
+
+.carousel-inner img{
+    height: 10vh;
+}
